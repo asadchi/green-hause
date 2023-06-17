@@ -1,0 +1,35 @@
+.after{
+
+    &__block2{
+padding-top: 100px;
+    }
+    
+    &__h1{
+        
+        font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+
+
+color: #000000;
+
+    }
+
+    
+
+    &__a1{
+        text-align: right;
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 60px;
+/* identical to box height, or 353% */
+
+
+color: #FB8F1D;
+    }
+}

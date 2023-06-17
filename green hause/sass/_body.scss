@@ -1,0 +1,31 @@
+.body{
+
+    &__block2{
+        padding-left: 50px;
+    }
+
+    &__h1{
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 50px;
+        /* or 139% */
+        
+        
+        color: #000000;
+    }
+    &__p1{
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+
+color: #7D7987;
+
+
+    }
+}

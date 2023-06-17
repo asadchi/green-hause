@@ -1,0 +1,75 @@
+.cards{
+
+    &__h1{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 19px;
+        line-height: 30px;
+        /* or 158% */
+        
+        
+        color: #000000;}
+
+        &__p1{
+            font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+
+
+color: #7D7987;
+
+        }
+}
+
+
+.ends{
+    background-color:  #F9F9FB;
+    &__p1{
+        
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: #848484;
+
+    }
+
+    &__h1{
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 60px;
+/* identical to box height, or 316% */
+
+
+color: #000000;
+    }
+
+    &__a1{
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+/* or 211% */
+
+
+color: #848484;
+    }
+
+   
+}
+
+.icons1{
+    display: flex;
+    justify-content: center;
+}

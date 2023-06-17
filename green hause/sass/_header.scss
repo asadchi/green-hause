@@ -1,0 +1,81 @@
+.navbars-ul{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+}
+
+
+.navs-btn1{
+    color: rgb(234, 177, 19);
+}
+
+.navs-btn1:hover{
+    color: white;
+    transition: 1s;
+
+}
+
+.navs-btn2{
+    color: #fff;
+    background-color:rgb(234, 209, 19) ;
+}
+
+.navs-btn2:hover{
+    color: rgb(234, 209, 19);
+    background-color: #fff;
+    transition: 0.5s;
+}
+
+// header
+
+
+
+
+.head-h1{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 80px;
+}
+
+
+.head-line{
+    width: 32px;
+    height: 2px;  
+background: #202336;
+border-radius: 4px;
+}
+
+.head-sel{
+    padding: 21px 106px 21px 31px;
+
+    border: 0.8px solid #AFB0B9;
+border-radius: 6px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 32px;
+/* or 213% */
+
+color: #4A4C53;
+}
+
+.head-sel2{
+    padding: 21px 121px 21px 31px;
+
+    border: 0.8px solid #AFB0B9;
+border-radius: 6px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 32px;
+/* or 213% */
+
+color: #4A4C53;
+}
